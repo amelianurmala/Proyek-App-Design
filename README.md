@@ -10,7 +10,7 @@
 
 LINK CLICKUP : https://sharing.clickup.com/90181767922/b/h/6-901812361560-2/b6ff55ac7bf5151 
 
-LINK UX : https://www.figma.com/proto/fTisvVyPF3Cn7YXukbyc3m/App-Perpustakaan.?node-id=360-301&t=hewtiry9SiG4NmQL-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=126%3A472 
+LINK UX : https://www.figma.com/proto/fTisvVyPF3Cn7YXukbyc3m/App-Perpustakaan.?node-id=126-472&t=hewtiry9SiG4NmQL-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=126%3A472
 
 
 ![Desktop - 1 (1)](https://github.com/user-attachments/assets/086e228d-3113-405c-ae9b-9e3454002159)
